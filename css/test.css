@@ -1,0 +1,15 @@
+body{
+	background:#222;
+	font:75%/1.5 Georgia, serif;
+	color:#eee;
+	
+}
+
+input[type="text"]{
+	width:200px;
+}
+
+div input{
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
